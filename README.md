@@ -1,10 +1,10 @@
 # ai-archive
 
-learning archive for OSN AI / IOAI prep. not competition entries, just training and experience. bronze OSN AI, 8th place, 4000+ entrants.
+learning archive for OSN AI / IOAI prep. not competition entries, just training and experience. bronze in National Science Olympiad for AI, 8th place, 4000+ entrants.
 
 all notebooks run on kaggle or locally. datasets not included (too big / competition data).
 
-## OSN EKKA finals
+## National Science Olympiad (OSN) AI EKKA finals
 
 | notebook | what its for |
 |---|---|
